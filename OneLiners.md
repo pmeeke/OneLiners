@@ -1,3 +1,2 @@
-## get external IP  
-
+#### get external IP  
 ```curl https://ipinfo.io/ip```
